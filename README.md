@@ -15,6 +15,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 **Cara Menjalankan Secara Lokal**
 **Clone repository:**
+https://github.com/halimatuwanda77/FrontendDeveloper_rick-morty-app.git
 
 **Masuk ke folder project:**
 cd nama-repo
