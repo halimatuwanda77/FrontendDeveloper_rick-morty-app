@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 export default async function CharacterDetail({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
 
